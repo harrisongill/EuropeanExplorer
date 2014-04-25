@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">European Explorer</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction">Use this app to learn about the countries of the EU.</string>
+    <string name="credits">Data courtesy of Wikipedia. Accurate as of January 5, 2014. Leader information accurate as of April 25, 2014. Developed by Harrison Gill.</string>
+    <string name="aus">Austria</string>
+    <string name="bel">Belgium</string>
+    <string name="bul">Bulgaria</string>
+    <string name="cro">Croatia</string>
+    <string name="cyp">Cyprus</string>
+    <string name="cze">Czech Republic</string>
+    <string name="den">Denmark</string>
+    <string name="est">Estonia</string>
+    <string name="fin">Finland</string>
+    <string name="fra">France</string>
+    <string name="ger">Germany</string>
+    <string name="gre">Greece</string>
+    <string name="hun">Hungary</string>
+    <string name="ire">Ireland</string>
+    <string name="ita">Italy</string>
+    <string name="lat">Latvia</string>
+    <string name="lit">Lithuania</string>
+    <string name="lux">Luxembourg</string>
+    <string name="mal">Malta</string>
+    <string name="net">Netherlands</string>
+    <string name="pol">Poland</string>
+    <string name="por">Portugal</string>
+    <string name="rom">Romania</string>
+    <string name="sla">Slovakia</string>
+    <string name="sle">Slovenia</string>
+    <string name="spa">Spain</string>
+    <string name="swe">Sweden</string>
+    <string name="uni">United Kingdom</string>
+    <string name="aus_info">Capital: Vienna\nPopulation: 8,443,000\nHead of Government: Werner Faymann\nLanguage: German\nCurrency: Euro</string>
+    <string name="bel_info">Capital: Brussels\nPopulation: 11,041,300\nHead of Government: Elio Di Rupo\nLanguage: French, Dutch, and German\nCurrency: Euro</string>
+    <string name="bul_info">Capital: Sofia\nPopulation: 7,327,200\nHead of Government: Plamen Oresharski\nLanguage: Bulgarian\nCurrency: Lev</string>
+    <string name="cro_info">Capital: Zagreb\nPopulation: 4,398,000\nHead of Government: Zoran Milanović\nLanguage: Croatian\nCurrency: Kuna</string>
+    <string name="cyp_info">Capital: Nicosia\nPopulation: 862,000\nHead of Government: Nicos Anastasiades\nLanguage: Greek\nCurrency: Euro</string>
+    <string name="cze_info">Capital: Prague\nPopulation: 10,505,400\nHead of Government: Bohuslav Sobotka\nLanguage: Czech\nCurrency: Koruna</string>
+    <string name="den_info">Capital: Copenhagen\nPopulation: 5,580,500\nHead of Government: Helle Thorning-Schmidt\nLanguage: Danish\nCurrency: Krone</string>
+    <string name="est_info">Capital: Tallinn\nPopulation: 1,339,700\nHead of Government: Taavi Rõivas\nLanguage: Estonian\nCurrency: Euro</string>
+    <string name="fin_info">Capital: Helsinki\nPopulation: 5,401,300\nHead of Government: Jyrki Katainen\nLanguage: Finnish, Swedish\nCurrency: Euro</string>
+    <string name="fra_info">Capital: Paris\nPopulation: 65,397,900\nPresident: François Hollande\nLanguage: French\nCurrency: Euro</string>
+    <string name="ger_info">Capital: Berlin\nPopulation: 81,843,700\nHead of Government: Angela Merkel\nLanguage: German\nCurrency: Euro</string>
+    <string name="gre_info">Capital: Athens\nPopulation: 11,290,900\nHead of Government: Antonis Samaras\nLanguage: Greek\nCurrency: Euro</string>
+    <string name="hun_info">Capital: Budapest\nPopulation: 9,957,700\nHead of Government: Viktor Orbán\nLanguage: Hungarian\nCurrency: Forint</string>
+    <string name="ire_info">Capital: Dublin\nPopulation: 4,582,800\nHead of Government: Enda Kenny\nLanguage: English, Irish\nCurrency: Euro</string>
+    <string name="ita_info">Capital: Rome\nPopulation: 60,820,800\nHead of Government: Matteo Renzi\nLanguage: Italian\nCurrency: Euro</string>
+    <string name="lat_info">Capital: Riga\nPopulation: 2,041,800\nHead of Government: Laimdota Straujuma\nLanguage: Latvian\nCurrency: Euro</string>
+    <string name="lit_info">Capital: Vilnius\nPopulation: 3,007,800\nHead of Government: Algirdas Butkevičius\nLanguage: Lithuanian\nCurrency: Litas</string>
+    <string name="lux_info">Capital: Luxembourg City\nPopulation: 524,900\nHead of Government: Xavier Bettel\nLanguage: German, French, Luxembourgish\nCurrency: Euro</string>
+    <string name="mal_info">Capital: Valletta\nPopulation: 416,100\nHead of Government: Joseph Muscat\nLanguage: Maltese, English\nCurrency: Euro</string>
+    <string name="net_info">Capital: Amsterdam (government is based in The Hague)\nPopulation: 16,730,300\nHead of Government: Mark Rutte\nLanguage: Dutch\nCurrency: Euro</string>
+    <string name="pol_info">Capital: Warsaw\nPopulation: 38,538,400\nHead of Government: Donald Tusk\nLanguage: Polish\nCurrency: Złoty</string>
+    <string name="por_info">Capital: Lisbon\nPopulation: 10,541,800\nPresident: Aníbal Cavaco Silva\nLanguage: Portuguese\nCurrency: Euro</string>
+    <string name="rom_info">Capital: Bucharest\nPopulation: 21,355,800\nPresident: Traian Băsescu\nLanguage: Romanian\nCurrency: Leu</string>
+    <string name="sla_info">Capital: Bratislava\nPopulation: 5,404,300\nHead of Government: Robert Fico\nLanguage: Slovak\nCurrency: Euro</string>
+    <string name="sle_info">Capital: Ljubljana\nPopulation: 2,055,500\nHead of Government: Alenka Bratušek\nLanguage: Slovene\nCurrency: Euro</string>
+    <string name="spa_info">Capital: Madrid\nPopulation: 46,196,300\nHead of Government: Mariano Rajoy\nLanguage: Spanish\nCurrency: Euro</string>
+    <string name="swe_info">Capital: Stockholm\nPopulation: 9,482,900\nHead of Government: Fredrik Reinfeldt\nLanguage: Swedish\nCurrency: Krona</string>
+    <string name="uni_info">Capital: London\nPopulation: 62,989,600\nHead of Government: David Cameron\nLanguage: English\nCurrency: Pound Sterling</string>
+                                                        
+
+</resources>
